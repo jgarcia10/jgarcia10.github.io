@@ -640,8 +640,8 @@ body {
 }
 
 .institution_Phd img {
-  width: 100px; /* Adjust as needed */
-  height: auto;
+  width: 100px;
+  height: 100px;
   margin-right: 20px; /* Adjust spacing between logo and text */
 }
 
